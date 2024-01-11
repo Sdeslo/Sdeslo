@@ -1,4 +1,4 @@
-- Hi, I’m @Sdeslo
+- Hi, I’m Simon Deslauriers
 - I’m interested in machine learning, automation and cars
 - I’m currently learning electrical enginnering
 <!---
